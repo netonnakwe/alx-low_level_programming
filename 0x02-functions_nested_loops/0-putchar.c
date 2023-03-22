@@ -1,5 +1,8 @@
 #include "main.h"
-
+/**
+ * main - program that prints exactly _putchar followed by a new line
+ * Return: Always 0
+ */
 int main(void)
 {
 	char name[8] = "_putchar";
